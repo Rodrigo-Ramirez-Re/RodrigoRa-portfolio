@@ -376,7 +376,7 @@ ol, ul {
 
 .project-list .project-list-card {
     grid-column-start: span 4;
-    height: 24rem;
+    height: 25rem;
     background-color: hsla(0, 0%, 10%, 1);
     border-radius: var(--16px);
     display: flex;
@@ -503,7 +503,11 @@ ol, ul {
   .hamburger-container {
     display: none; 
   }
-  
+
+  .hamburger-menu-container {
+    display: none;
+  }
+
   /* Hero Section*/
   
   .hero {
