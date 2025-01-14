@@ -327,8 +327,9 @@ ol, ul {
 }
 
 .banner-logos-container img {
-    height: 64px;
-    width: 64px;
+    height: 5em;
+    width: 5em;
+    
 }
 
 /* Projects */
@@ -578,7 +579,8 @@ ol, ul {
   }
   
   .banner-logos-container img {
-    height: 64px;
+    height: 4em;
+    width: 4em;
   }
   
   /* Projects */
@@ -668,6 +670,7 @@ ol, ul {
     
   .banner-logos-container img {
     height: 5em;
+    width: 5em;
   }
   
   /* Projects */
