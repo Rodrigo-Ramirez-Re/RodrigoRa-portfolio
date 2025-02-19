@@ -21,7 +21,7 @@ const projects = [
         'imgSrc': './src/cleanisimo.png',
         'title': 'Cleanisimo',
         'technologies': {
-            '1': 'Migrating to React with Tailwind'
+            '1': 'Migrating to React and Tailwind'
         },
         'category': 'front-end' 
     },
