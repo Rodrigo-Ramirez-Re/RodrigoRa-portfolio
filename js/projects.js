@@ -21,10 +21,9 @@ const projects = [
         'imgSrc': './src/cleanisimo.png',
         'title': 'Cleanisimo',
         'technologies': {
-            '1': 'Wix',
-            '2': 'UI'
+            '1': 'Migrating to React with Tailwind'
         },
-        'category': 'design' 
+        'category': 'front-end' 
     },
     {
         'id': 3,
