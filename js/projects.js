@@ -40,7 +40,7 @@ const projects = [
     },
     {
         'id': 4,
-        'url': 'https://www.airctec.com/',
+        'url': 'https://www.airtec.com.ni/',
         'imgSrc': './src/airtec-web.png',
         'title': 'Airtec S. A.',
         'technologies': {
