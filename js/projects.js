@@ -38,7 +38,7 @@ const projects = [
         },
         'category': 'design' 
     },
-   /*  {
+    {
         'id': 4,
         'url': 'https://www.airctec.com/',
         'imgSrc': './src/airtec-web.png',
@@ -49,7 +49,7 @@ const projects = [
             '3': 'UI'
         },
         'category': 'design' 
-    }, */
+    }, 
     {
         'id': 5,
         'url': 'https://rodrigo-ramirez-re.github.io/reproductor-musica/',
